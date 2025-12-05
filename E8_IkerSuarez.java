@@ -12,5 +12,6 @@ public class Main {
         boolean estáAprobado=true;
 
         System.out.println("El area de la figura es:"+areaFigura+"y mi estado civil es:"+estadoCivil);
+        System.out.println("Esto es un cambio de prueba");
     }
 }

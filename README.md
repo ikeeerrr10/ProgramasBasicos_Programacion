@@ -21,8 +21,8 @@ El repositorio incluye ejemplos como:
 
 ## :bookmark: IDE utilizado y donde descargarlo
 
-El IDE utilizado para el desarrollo de los programas ha sido **Intellij IDEA**
-[Si pinchas en este enlace podrás ir a la web de jetbrains, descargar Intellij y... ¡Empezar a programar!:](https://www.jetbrains.com/es-es/idea/download/?section=windows)
+El IDE utilizado para el desarrollo de los programas ha sido **Intellij IDEA**<br>
+[Si pinchas en este enlace podrás ir a la web de jetbrains, descargar Intellij y... ¡Empezar a programar!](https://www.jetbrains.com/es-es/idea/download/?section=windows)
 
 ## :black_nib: Autor
 

@@ -12,6 +12,6 @@ public class Main {
         System.out.println("El radio del circulo es:"+radio);
         System.out.println("El perímetro del círculo es:" + perimetro);
         System.out.println("El área del círculo es:" + area);
-
+        System.out.println("Actualizo este programa para comprobar que los .txt siguen ocultos")
     }
 }
